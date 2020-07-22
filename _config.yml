@@ -1,18 +1,18 @@
 # Site settings
 name: Kelly Neo
-title: Kelly Neo | Passionate about digital marketing and content creation
-description: Computer science / business student fascinated about machine learning and software development and their applications on real life problems.
-url: https://jervvs.github.io/
+title: Kelly Neo | Passionate about Digital Marketing 
+description: Psychology / Marketing student passionate about understanding huamns' behaviour and their decisions that will impact businesses. 
+url: https://keahleh.github.io/
 baseurl: ''
-email: jerv0003@e.ntu.edu.sg
+email: kelly.neo.2019@smu.edu.sg
 cover: #https://bchiang7.github.io/img/og.png
-logo: https://jervvs.github.io/img/emojis/unicorn.png
-resume: https://jervvs.github.io/JERVISCHAN_Resume.pdf
+logo: https://keahleh.github.io/img/emojis/kelrainbowemoji.png
+resume: https://keahleh.github.io/KellyNeo_Resume_2020.pdf
 social:
   - title: email
     url: mailto:kelly.neo.2019@smu.edu.sg
   - title: linkedin
-    url: https://www.linkedin.com/in/jervis-chan/
+    url: https://www.linkedin.com/in/kelly-neo-67448117a/
   - title: '@whiskincocoa' 
     url: https://www.instagram.com/whiskincocoa/
   # - title: github
