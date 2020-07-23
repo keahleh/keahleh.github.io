@@ -1,27 +1,28 @@
-- name: GAN Implementation
-  url: 
+- name: whiskincocoa
+  url: https://www.instagram.com/whiskincocoa/
   code: 
-  description: Implemented well-known GANs to study applications in disentangled representation and explainable artificial intelligence as part of NTU Undergraduate Research Experience (URECA).
+  description: Sets up and optimize business account on Instagram to increase visibility of its social media content.
+  Creates and distributes engaging graphic content via Instagram to increase brand recognition and followers.
   used:
-    - thing: Python 
-    - thing: PyTorch 
-    - thing: GAN
-    - thing: Deep Learning
+    - thing:  
+    - thing:  
+    - thing: 
+    - thing: 
 
-- name: COVIDsualisation
-  url: 
-  code: 
-  description: Built interactive dashboard with Plotly and Dash to visualise COVID-19 statistics in Singapore, illustrating daily changes, and comparisons with other countries.
-  used:
-    - thing: Python
-    - thing: Plotly/Dash
-    - thing: Data Visualisation
-
-- name: Bengali.AI Handwritten Grapheme Classification
+- name: 
   url: 
   code: 
   description: 
-    Developed classification model based on EfficientNet with FastAI for the optical character classification of Bengali grapheme elements. <br>
+  used:
+    - thing: 
+    - thing: 
+    - thing: 
+
+- name: 
+  url: 
+  code: 
+  description: 
+   
     <span class="small">🏆 Kaggle Silver Medalist 🏆</span>
   used:
     - thing: Python
