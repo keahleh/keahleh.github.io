@@ -1,7 +1,7 @@
 # Site settings
 name: Kelly Neo
 title: Kelly Neo | Passionate about Digital Marketing 
-description: Psychology / Marketing student passionate about understanding huamns' behaviour and their decisions that will impact businesses. 
+description: Psychology / Marketing student passionate about understanding humans' behaviour and their decisions that will impact businesses. 
 url: https://keahleh.github.io/
 baseurl: ''
 email: kelly.neo.2019@smu.edu.sg
@@ -13,7 +13,7 @@ social:
     url: mailto:kelly.neo.2019@smu.edu.sg
   - title: linkedin
     url: https://www.linkedin.com/in/kelly-neo-67448117a/
-  - title: '@whiskincocoa' 
+  - title: Instagram 
     url: https://www.instagram.com/whiskincocoa/
   # - title: github
   #   url: https://github.com/jervvs
