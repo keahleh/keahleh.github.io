@@ -686,6 +686,12 @@ strong {
 	background-image: url(../img/emojis/unicorn.png)
 }
 
+
+.intro__tagline .brain {
+	background-image: url(../img/emojis/brainemoji.png)
+}
+
+
 .intro__contact {
 	font-size: 1.25rem;
 	font-weight: 400
